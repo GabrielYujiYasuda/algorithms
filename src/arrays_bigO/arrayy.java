@@ -1,4 +1,4 @@
-package Arrays_BigO;
+package arrays_bigO;
 
 public class arrayy {
     public static void main(String[] args) {
