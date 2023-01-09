@@ -3,6 +3,7 @@
 This is some of what I have been learning about data structure and algorithms in JAVA:
 
 <h2>Algorithms</h2>
+
 - BigO
 - Stable and Unstable sort
 - Bubble
