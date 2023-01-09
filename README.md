@@ -5,7 +5,7 @@ This is some of what I have been learning about data structure and algorithms in
 <h2>Algorithms</h2>
 
 - BigO
-- Stable and Unstable sort
+- Stable / Unstable sort
 - Bubble
 - Selection
 - Insertion
