@@ -8,8 +8,6 @@ public class Main {
 
     }
 
-    //====================================================
-
     public static int recursiveFactorial(int num) {
         if (num == 0) {
             return 1;
