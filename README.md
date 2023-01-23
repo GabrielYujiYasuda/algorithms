@@ -11,4 +11,5 @@ This is some of what I have been learning about algorithms in JAVA:
 - Insertion
 - Shell
 - Merge
-
+- Quick
+- Counting
