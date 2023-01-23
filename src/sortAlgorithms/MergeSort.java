@@ -10,7 +10,6 @@ public class MergeSort {
         //printer
         for (int print: intArray)
             System.out.println(print);
-
     }
 
     public static void mergeSort(int[] input, int start, int end) {
@@ -19,6 +18,7 @@ public class MergeSort {
             return;
 
         int mid = (start + end) / 2;
+
         mergeSort(input, start, mid);
         mergeSort(input, mid, end);
         merge(input, start, mid, end);
