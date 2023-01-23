@@ -27,7 +27,6 @@ public class QuickSort {
         int j = end;
 
         while (i < j) {
-
             while (i < j && input[--j] >= pivot);
             if (i < j) {
                 input[i] = input[j];
@@ -37,8 +36,6 @@ public class QuickSort {
             if (i < j) {
                 input[j] = input[i];
             }
-
-
         }
 
         input[j] = pivot;
